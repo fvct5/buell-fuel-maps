@@ -1,2 +1,3 @@
-# buell-fuel-maps
-Collection of Buell fuel maps for programming.
+# Buell Fuel Maps
+
+A collection of Buell fuel maps for programming the ECM.
